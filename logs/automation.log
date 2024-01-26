@@ -1,0 +1,150 @@
+15:38:22.675 [main] INFO  utilities.Log - *********
+15:38:22.679 [main] INFO  utilities.Log - *********
+15:38:22.680 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+15:38:22.680 [main] INFO  utilities.Log - *********
+15:38:22.680 [main] INFO  utilities.Log - *********
+15:42:45.957 [main] INFO  utilities.Log - *********
+15:42:45.961 [main] INFO  utilities.Log - *********
+15:42:45.962 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+15:42:45.962 [main] INFO  utilities.Log - *********
+15:42:45.962 [main] INFO  utilities.Log - *********
+19:13:46.669 [main] INFO  utilities.Log - *********
+19:13:46.673 [main] INFO  utilities.Log - *********
+19:13:46.674 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+19:13:46.674 [main] INFO  utilities.Log - *********
+19:13:46.674 [main] INFO  utilities.Log - *********
+19:13:48.499 [main] INFO  utilities.Log - *********
+19:13:48.499 [main] INFO  utilities.Log - *********
+19:13:48.499 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+19:13:48.500 [main] INFO  utilities.Log - *********
+19:13:48.500 [main] INFO  utilities.Log - *********
+08:44:32.036 [main] INFO  utilities.Log - *********
+08:44:32.040 [main] INFO  utilities.Log - *********
+08:44:32.040 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+08:44:32.040 [main] INFO  utilities.Log - *********
+08:44:32.040 [main] INFO  utilities.Log - *********
+08:44:34.345 [main] INFO  utilities.Log - *********
+08:44:34.347 [main] INFO  utilities.Log - *********
+08:44:34.347 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+08:44:34.347 [main] INFO  utilities.Log - *********
+08:44:34.348 [main] INFO  utilities.Log - *********
+08:50:21.368 [main] INFO  utilities.Log - *********
+08:50:21.372 [main] INFO  utilities.Log - *********
+08:50:21.372 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+08:50:21.372 [main] INFO  utilities.Log - *********
+08:50:21.372 [main] INFO  utilities.Log - *********
+08:50:23.428 [main] INFO  utilities.Log - *********
+08:50:23.428 [main] INFO  utilities.Log - *********
+08:50:23.428 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+08:50:23.428 [main] INFO  utilities.Log - *********
+08:50:23.429 [main] INFO  utilities.Log - *********
+08:52:36.821 [main] INFO  utilities.Log - *********
+08:52:36.824 [main] INFO  utilities.Log - *********
+08:52:36.825 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+08:52:36.825 [main] INFO  utilities.Log - *********
+08:52:36.825 [main] INFO  utilities.Log - *********
+08:52:38.801 [main] INFO  utilities.Log - *********
+08:52:38.801 [main] INFO  utilities.Log - *********
+08:52:38.802 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+08:52:38.802 [main] INFO  utilities.Log - *********
+08:52:38.802 [main] INFO  utilities.Log - *********
+11:26:47.150 [main] INFO  utilities.Log - *********
+11:26:47.154 [main] INFO  utilities.Log - *********
+11:26:47.155 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+11:26:47.155 [main] INFO  utilities.Log - *********
+11:26:47.156 [main] INFO  utilities.Log - *********
+11:26:49.014 [main] INFO  utilities.Log - *********
+11:26:49.014 [main] INFO  utilities.Log - *********
+11:26:49.014 [main] INFO  utilities.Log - $$$$      API     $$$$$$
+11:26:49.014 [main] INFO  utilities.Log - *********
+11:26:49.015 [main] INFO  utilities.Log - *********
+13:16:44.335 [main] INFO  utilities.Log - *********
+13:16:44.724 [main] INFO  utilities.Log - *********
+13:16:44.724 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+13:16:44.724 [main] INFO  utilities.Log - *********
+13:16:44.724 [main] INFO  utilities.Log - *********
+13:16:44.724 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+13:16:46.575 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+13:16:49.884 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+13:16:50.158 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+13:16:55.314 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+13:28:20.759 [main] INFO  utilities.Log - *********
+13:28:20.763 [main] INFO  utilities.Log - *********
+13:28:20.763 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+13:28:20.763 [main] INFO  utilities.Log - *********
+13:28:20.764 [main] INFO  utilities.Log - *********
+13:28:20.764 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+13:28:20.899 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+13:28:23.358 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+13:28:23.705 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+13:28:28.564 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+15:37:18.828 [main] INFO  utilities.Log - *********
+15:37:18.832 [main] INFO  utilities.Log - *********
+15:37:18.832 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+15:37:18.832 [main] INFO  utilities.Log - *********
+15:37:18.832 [main] INFO  utilities.Log - *********
+15:37:18.832 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+15:37:19.016 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+15:37:23.944 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+15:37:24.235 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+15:37:29.285 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+15:38:18.649 [main] INFO  utilities.Log - *********
+15:38:18.654 [main] INFO  utilities.Log - *********
+15:38:18.654 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+15:38:18.654 [main] INFO  utilities.Log - *********
+15:38:18.654 [main] INFO  utilities.Log - *********
+15:38:18.655 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+15:38:18.791 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+15:38:20.890 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+15:38:21.141 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+15:38:24.806 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+15:41:05.477 [main] INFO  utilities.Log - *********
+15:41:05.481 [main] INFO  utilities.Log - *********
+15:41:05.481 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+15:41:05.482 [main] INFO  utilities.Log - *********
+15:41:05.482 [main] INFO  utilities.Log - *********
+15:41:05.482 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+15:41:05.662 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+15:41:08.437 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+15:41:08.719 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+15:41:12.799 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+15:49:30.466 [main] INFO  utilities.Log - *********
+15:49:30.638 [main] INFO  utilities.Log - *********
+15:49:30.638 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+15:49:30.638 [main] INFO  utilities.Log - *********
+15:49:30.638 [main] INFO  utilities.Log - *********
+15:49:30.638 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+15:49:31.859 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+15:49:35.017 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+15:49:35.322 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+15:49:39.501 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+16:03:35.927 [main] INFO  utilities.Log - *********
+16:03:36.008 [main] INFO  utilities.Log - *********
+16:03:36.008 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+16:03:36.008 [main] INFO  utilities.Log - *********
+16:03:36.008 [main] INFO  utilities.Log - *********
+16:03:36.008 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+16:03:36.778 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+16:03:39.332 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+16:03:39.676 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+16:03:43.467 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+16:08:17.661 [main] INFO  utilities.Log - *********
+16:08:17.790 [main] INFO  utilities.Log - *********
+16:08:17.790 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+16:08:17.790 [main] INFO  utilities.Log - *********
+16:08:17.790 [main] INFO  utilities.Log - *********
+16:08:17.790 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+16:08:18.325 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+16:08:22.784 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+16:08:23.045 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+16:08:28.652 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
+16:09:48.621 [main] INFO  utilities.Log - *********
+16:09:48.624 [main] INFO  utilities.Log - *********
+16:09:48.624 [main] INFO  utilities.Log - $$$$      AmazonWebUI     $$$$$$
+16:09:48.624 [main] INFO  utilities.Log - *********
+16:09:48.625 [main] INFO  utilities.Log - *********
+16:09:48.625 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** starting TC_001_AccountRegistrationTest  *****
+16:09:48.766 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Entered value
+16:09:51.385 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on submit
+16:09:51.668 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - Clicked on first image
+16:09:57.319 [main] INFO  Suchithra.MasterAutomation.AmazonWebUI - **** finished TC_001_AccountRegistrationTest  *****
